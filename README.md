@@ -41,7 +41,7 @@ El proyecto tiene un propósito **funcional** y **académico**:
 2. Abrir Android Studio → **Open an Existing Project**  
 3. Esperar a que Gradle sincronice las dependencias  
 4. Configurar un emulador o conectar un dispositivo físico  
-5. Ejecutar con **Run ▶**  
+5. Ejecutar con **Run**  
 
 ---
 
