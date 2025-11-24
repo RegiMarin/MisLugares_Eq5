@@ -1,8 +1,6 @@
 # Mis Lugares  
 Aplicación móvil Android para la gestión personal de lugares de interés.
 
----
-
 ## Descripción del proyecto
 
 **Mis Lugares** es una aplicación móvil diseñada para registrar, organizar y consultar puntos de interés personales. Soluciona la dispersión de información al permitir guardar datos relevantes como ubicación, contacto, notas y contenido multimedia en un solo lugar.
