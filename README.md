@@ -20,7 +20,6 @@ El proyecto tiene un propósito **funcional** y **académico**:
   - Persistencia de datos
   - Arquitectura por capas en Android
 
----
 
 ## Requisitos e instalación
 
@@ -41,8 +40,6 @@ El proyecto tiene un propósito **funcional** y **académico**:
 4. Configurar un emulador o conectar un dispositivo físico  
 5. Ejecutar con **Run**  
 
----
-
 ## Cómo usarlo
 
 Para ejecutar el proyecto sigue estos pasos:
@@ -62,7 +59,6 @@ Para ejecutar el proyecto sigue estos pasos:
 - Abrir sitios web (http/https)  
 - Tomar o seleccionar fotografías (cámara/galería)
 
----
 
 ## Estructura del proyecto
 
@@ -115,7 +111,6 @@ El proyecto sigue una arquitectura por capas:
 7. **Crear un Pull Request** hacia el repositorio original  
    Explicar claramente qué se modificó y por qué.
 
----
 
 ## Resumen técnico del sistema
 
