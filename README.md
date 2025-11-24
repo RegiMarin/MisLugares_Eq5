@@ -6,12 +6,12 @@ Aplicación móvil Android para la gestión personal de lugares de interés.
 **Mis Lugares** es una aplicación móvil diseñada para registrar, organizar y consultar puntos de interés personales. Soluciona la dispersión de información al permitir guardar datos relevantes como ubicación, contacto, notas y contenido multimedia en un solo lugar.
 
 ### La aplicación permite:
-- Guardar información clave: nombre, categoría, dirección, contacto, sitio web y comentarios.
-- Adjuntar fotografías y asignar una valoración numérica.
-- Ejecutar acciones rápidas como visualizar la ubicación en Google Maps, realizar llamadas telefónicas o abrir sitios web desde la app.
+- Gestión de información: Almacenar datos clave como nombre, categoría, dirección, contacto, sitio web y notas personales. 
+- Multimedia y Valoración: Adjuntar fotografías y asignar una calificación numérica a cada lugar. 
+- Interactividad: Ejecutar acciones directas como visualizar la ubicación en mapas, realizar llamadas telefónicas o visitar el sitio web desde la interfaz. 
 
 ### Propósito del proyecto
-El proyecto tiene un propósito **funcional** y **académico**:
+El proyecto tiene un propósito **funcional** y **pedagógico**:
 - Proveer una herramienta útil para administrar lugares personales.
 - Servir como práctica para aprender:
   - Diseño de interfaces (UI)
