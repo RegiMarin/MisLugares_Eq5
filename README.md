@@ -111,6 +111,7 @@ El proyecto sigue una arquitectura por capas:
 7. **Crear un Pull Request** hacia el repositorio original  
    Explicar claramente qué se modificó y por qué.
 
+---
 
 ## Resumen técnico del sistema
 
